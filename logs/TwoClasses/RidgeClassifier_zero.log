@@ -1,0 +1,1312 @@
+INFO:root:Classifier: RidgeClassifier
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.25  0.75 ]
+ [0.375 0.625]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.625  0.375 ]
+ [0.8125 0.1875]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.25   0.75  ]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.4625 0.5375]
+ [0.5125 0.4875]]
+INFO:root:
+ Subject Average Accuracy:
+0.475
+INFO:root:
+_______________________Subject: P055_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 64
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.475 0.525]
+ [0.45  0.55 ]]
+INFO:root:
+ Subject Average Accuracy:
+0.5125
+INFO:root:
+_______________________Subject: P056_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 67
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.625 0.375]
+ [0.5   0.5  ]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.375 0.625]
+ [0.625 0.375]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.375  0.625 ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.5125 0.4875]
+ [0.5375 0.4625]]
+INFO:root:
+ Subject Average Accuracy:
+0.4875
+INFO:root:
+_______________________Subject: P058_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 65
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.625 0.375]
+ [0.375 0.625]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.375  0.625 ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.575  0.425 ]
+ [0.4375 0.5625]]
+INFO:root:
+ Subject Average Accuracy:
+0.56875
+INFO:root:
+_______________________Subject: P059_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 73
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.625 0.375]
+ [0.5   0.5  ]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.375 0.625]
+ [0.625 0.375]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.5125 0.4875]
+ [0.4625 0.5375]]
+INFO:root:
+ Subject Average Accuracy:
+0.525
+INFO:root:
+_______________________Subject: P069_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 70
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.625 0.375]
+ [0.5   0.5  ]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.3125 0.6875]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.34375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5   0.5  ]
+ [0.375 0.625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.25   0.75  ]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.425 0.575]
+ [0.475 0.525]]
+INFO:root:
+ Subject Average Accuracy:
+0.475
+INFO:root:
+_______________________Subject: P070_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.625  0.375 ]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.375  0.625 ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.375 0.625]
+ [0.5   0.5  ]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.475 0.525]
+ [0.525 0.475]]
+INFO:root:
+ Subject Average Accuracy:
+0.475
+INFO:root:
+_______________________Subject: P071_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 69
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.3125 0.6875]
+ [0.375  0.625 ]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.3125 0.6875]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.8125 0.1875]]
+INFO:root:
+Accuracy: 0.3125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.8125 0.1875]]
+INFO:root:
+Accuracy: 0.3125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.4    0.6   ]
+ [0.6125 0.3875]]
+INFO:root:
+ Subject Average Accuracy:
+0.39375
+INFO:root:
+_______________________Subject: P078_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 56
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.3125 0.6875]
+ [0.375  0.625 ]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.375  0.625 ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.45   0.55  ]
+ [0.5125 0.4875]]
+INFO:root:
+ Subject Average Accuracy:
+0.46875
+INFO:root:
+_______________________Subject: P054_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 60
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.375  0.625 ]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.34375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.525  0.475 ]
+ [0.5625 0.4375]]
+INFO:root:
+ Subject Average Accuracy:
+0.48125
+INFO:root:
+_______________________Subject: P057_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 72
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5   0.5  ]
+ [0.375 0.625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.625  0.375 ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.5   0.5  ]
+ [0.525 0.475]]
+INFO:root:
+ Subject Average Accuracy:
+0.4875
+INFO:root:
+_______________________Subject: P064_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 72
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.75   0.25  ]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.375 0.625]
+ [0.375 0.625]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.3125 0.6875]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.4875 0.5125]
+ [0.45   0.55  ]]
+INFO:root:
+ Subject Average Accuracy:
+0.51875
+INFO:root:
+_______________________Subject: P065_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.375 0.625]
+ [0.625 0.375]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.1875 0.8125]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.28125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.375  0.625 ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.4375 0.5625]
+ [0.5875 0.4125]]
+INFO:root:
+ Subject Average Accuracy:
+0.425
+INFO:root:
+_______________________Subject: P067_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 63
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5   0.5  ]
+ [0.625 0.375]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.5    0.5   ]
+ [0.5125 0.4875]]
+INFO:root:
+ Subject Average Accuracy:
+0.49375
+INFO:root:
+_______________________Subject: P068_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.625  0.375 ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.625  0.375 ]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.6875 0.3125]
+ [0.625  0.375 ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.6   0.4  ]
+ [0.525 0.475]]
+INFO:root:
+ Subject Average Accuracy:
+0.5375
+INFO:root:
+_______________________Subject: P072_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.3125 0.6875]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.625 0.375]
+ [0.5   0.5  ]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.5   0.5  ]
+ [0.575 0.425]]
+INFO:root:
+ Subject Average Accuracy:
+0.4625
+INFO:root:
+_______________________Subject: P073_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 1.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5   0.5  ]
+ [0.375 0.625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.4375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.375 0.625]
+ [0.625 0.375]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.375 0.625]
+ [0.625 0.375]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.45   0.55  ]
+ [0.5375 0.4625]]
+INFO:root:
+ Subject Average Accuracy:
+0.45625
+INFO:root:
+_______________________Subject: P075_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 73
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.625 0.375]
+ [0.5   0.5  ]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.375  0.625 ]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.625  0.375 ]
+ [0.8125 0.1875]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.4875 0.5125]
+ [0.5625 0.4375]]
+INFO:root:
+ Subject Average Accuracy:
+0.4625
+INFO:root:
+_______________________Subject: P076_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.75   0.25  ]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.4375 0.5625]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.1875 0.8125]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.4375 0.5625]]
+INFO:root:
+Accuracy: 0.5625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.475  0.525 ]
+ [0.4625 0.5375]]
+INFO:root:
+ Subject Average Accuracy:
+0.50625
+INFO:root:
+_______________________Subject: P080_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 74
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 1.0
+INFO:root:
+Conf Matrix:
+[[0.75   0.25  ]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 10.0
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.3125 0.6875]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.5625 0.4375]
+ [0.5    0.5   ]]
+INFO:root:
+ Subject Average Accuracy:
+0.53125
+INFO:root:
+_______________________Subject: P081_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5625 0.4375]
+ [0.5    0.5   ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.625 0.375]
+ [0.625 0.375]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.6875 0.3125]]
+INFO:root:
+Accuracy: 0.40625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+RidgeClassifier, best alpha 100.0
+INFO:root:
+Conf Matrix:
+[[0.5    0.5   ]
+ [0.5625 0.4375]]
+INFO:root:
+Accuracy: 0.46875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+RidgeClassifier, best alpha 0.001
+INFO:root:
+Conf Matrix:
+[[0.3125 0.6875]
+ [0.25   0.75  ]]
+INFO:root:
+Accuracy: 0.53125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.5   0.5  ]
+ [0.525 0.475]]
+INFO:root:
+ Subject Average Accuracy:
+0.4875
+INFO:root:
+_______________________Final Report_______________________
+INFO:root:
+Average Confusion Matrix Across All Subjects (Percentages): 
+[[0.49107143 0.50892857]
+ [0.51666667 0.48333333]]
+INFO:root:
+Average Classification Report Across All Subjects: 0.487202380952381
