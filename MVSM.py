@@ -4,7 +4,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 import logging
 import seaborn as sns
 import matplotlib.pyplot as plt
-from functions import sentence_embedding, sentence_embedding2
+from functions import sentence_embeddingc, sentence_embedding2
 
 
 
@@ -163,7 +163,7 @@ custom_cv_folds = generate_custom_cv_folds(sentences, similar)
 
 
 
-embeddings = sentence_embedding(sentences)
+embeddings = sentence_embeddingc(sentences)
 labels_t = np.array([0 if cls == 'SM' else 1 for cls in labels])
 
 print(np.array(embeddings).shape)

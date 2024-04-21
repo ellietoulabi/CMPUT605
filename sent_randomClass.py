@@ -1,6 +1,6 @@
 import numpy as np
 from globals import txt_labels, sentence_stimuli, mVof
-from functions import sentence_embedding, sentence_embedding2
+from functions import sentence_embedding, sentence_embedding2, sentence_embeddingc
 import numpy as np
 from sklearn.model_selection import StratifiedKFold
 from sklearn.model_selection import KFold
@@ -175,7 +175,7 @@ custom_cv_folds = generate_custom_cv_folds(sentences, similar)
 # Print the first fold to check the structure
 # print(custom_cv_folds)
 
-embeddings = sentence_embedding2(sentences)
+embeddings = sentence_embeddingc(sentences)
 labels_t = np.array([0 if cls == 'SM' else 1 for cls in labels])
 print("************************")
 # print(labels_t)
@@ -212,11 +212,11 @@ for repeat in range(0,100):
             np.array(labels_t)[train_index],
             np.array(labels_t)[test_index],
         )
-        # random.shuffle(y_train)
-        # random.shuffle(y_test)
+        random.shuffle(y_train)
+        random.shuffle(y_test)
         
-        random.shuffle(X_train)
-        random.shuffle(X_test)
+        # random.shuffle(X_train)
+        # random.shuffle(X_test)
         # Train a simple classifier, Logistic Regression in this case
         clf = LogisticRegression(max_iter=1000).fit(X_train, y_train)
         # clf = SVC.fit(X_train, y_train)

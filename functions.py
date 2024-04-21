@@ -113,3 +113,29 @@ def sentence_embedding2(sentences: list, method="bert", layer='middle'):
         embeddings.append(embedding)
     
     return embeddings
+
+
+
+
+def sentence_embeddingc(sentences:list, method="bert"):
+    """
+    Args:
+        sentences (list): list of sentence stimuli in the dataset
+        method (str, optional): Method of snetence embedding. Values: 'bert', 'w2v'. Defaults to "bert".
+
+    Returns:
+        list: list of embeddings
+    """    
+    embeddings = []
+    
+    tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+    model = AutoModel.from_pretrained("bert-base-uncased")
+    for sentence in sentences:
+        tokens = tokenizer(sentence, return_tensors="pt")
+        # embedding = outputs.last_hidden_state.mean(dim=1).squeeze().detach().numpy()
+        outputs = model(**tokens, output_hidden_states=True)
+        last_hidden_state = outputs.hidden_states[-1]
+        cls = last_hidden_state[0,0,:].detach().numpy()
+        embeddings.append(cls)
+    
+    return embeddings

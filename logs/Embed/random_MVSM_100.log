@@ -38398,3 +38398,9603 @@ Conf Matrix:
 INFO:root:
 Accuracy: [[0.5 0.5]
  [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.7  0.3 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.75 0.25]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.3  0.7 ]
+ [0.25 0.75]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.8 0.2]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.85 0.15]
+ [0.9  0.1 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.3  0.7 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.6  0.4 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.2 0.8]
+ [0.1 0.9]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.75 0.25]
+ [0.7  0.3 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.7  0.3 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.3 0.7]
+ [0.2 0.8]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.1  0.9 ]
+ [0.25 0.75]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.3  0.7 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.3 0.7]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.7  0.3 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.3  0.7 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.35
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.7 0.3]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.3 0.7]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.75 0.25]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.8 0.2]
+ [0.8 0.2]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.75 0.25]
+ [0.8  0.2 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.25 0.75]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.75 0.25]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.75 0.25]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.375
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.25 0.75]
+ [0.3  0.7 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.9 0.1]
+ [1.  0. ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.6  0.4 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.2  0.8 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.75 0.25]
+ [0.8  0.2 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.375
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.85 0.15]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.75 0.25]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.8 0.2]
+ [0.7 0.3]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.3  0.7 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.85 0.15]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.3  0.7 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.25 0.75]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.375
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.8  0.2 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.8  0.2 ]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.8 0.2]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.85 0.15]
+ [0.85 0.15]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.8 0.2]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.7 0.3]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.75 0.25]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.2 0.8]
+ [0.2 0.8]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.375
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.6  0.4 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.75 0.25]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.35
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.7 0.3]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.3  0.7 ]
+ [0.25 0.75]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.325
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.7  0.3 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.3  0.7 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.25 0.75]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.65
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.0
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 1.0
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.65
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.25 0.75]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.6  0.4 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 1.0
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.3 0.7]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.3 0.7]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 1.0
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.425
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.6  0.4 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.3 0.7]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.3
+INFO:root:
+Accuracy: [[0.25 0.75]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.2 0.8]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.625
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.7 0.3]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.0
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.7  0.3 ]
+ [0.55 0.45]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.3 0.7]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.4
+INFO:root:
+Accuracy: [[0.15 0.85]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[1.  0. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.4  0.6 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.25 0.75]
+ [0.3  0.7 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.5  0.5 ]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.35 0.65]
+ [0.45 0.55]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.6  0.4 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.5
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.6 0.4]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.35 0.65]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.525
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.6  0.4 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0. 1.]
+ [0. 1.]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.3
+INFO:root:
+Accuracy: [[0.3 0.7]
+ [0.7 0.3]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.   1.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.55 0.45]
+ [0.6  0.4 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.125
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.  1. ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.475
+INFO:root:
+Accuracy: [[0.45 0.55]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.  1. ]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.45
+INFO:root:
+Accuracy: [[0.4 0.6]
+ [0.5 0.5]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [1.  0. ]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.   1.  ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.6
+INFO:root:
+Accuracy: [[0.6 0.4]
+ [0.4 0.6]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[1.   0.  ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.25 0.75]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.575
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.5  0.5 ]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.375
+INFO:root:
+Accuracy: [[0.4  0.6 ]
+ [0.65 0.35]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.5  0.5 ]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.5 0.5]
+ [0.5 0.5]]
+INFO:root:
+Accuracy: 0.5
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.55
+INFO:root:
+Accuracy: [[0.65 0.35]
+ [0.55 0.45]]

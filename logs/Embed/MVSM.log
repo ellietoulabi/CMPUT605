@@ -574,3 +574,51 @@ Conf Matrix:
 INFO:root:
 Accuracy: [[0.4 0.6]
  [0.8 0.2]]
+INFO:root:
+_______________________Fold: 1_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 2_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.25
+INFO:root:
+_______________________Fold: 3_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 4_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Fold: 5_______________________
+INFO:root:
+Conf Matrix:
+[[0.25 0.75]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.375
+INFO:root:
+_______________________Totlal_______________________
+INFO:root:
+Conf Matrix:
+0.35
+INFO:root:
+Accuracy: [[0.25 0.75]
+ [0.55 0.45]]
