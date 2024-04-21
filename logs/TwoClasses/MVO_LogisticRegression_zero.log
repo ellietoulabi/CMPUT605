@@ -1,0 +1,2652 @@
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87857143 0.12142857]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.775
+INFO:root:
+_______________________Subject: P055_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 64
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.90625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.83571429 0.16428571]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.75
+INFO:root:
+_______________________Subject: P056_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 67
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.88571429 0.11428571]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7875
+INFO:root:
+_______________________Subject: P058_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 65
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87142857 0.12857143]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.78125
+INFO:root:
+_______________________Subject: P059_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 73
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.86428571 0.13571429]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7625
+INFO:root:
+_______________________Subject: P069_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 70
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87857143 0.12142857]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7875
+INFO:root:
+_______________________Subject: P070_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87857143 0.12142857]
+ [0.7        0.3       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.80625
+INFO:root:
+_______________________Subject: P071_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 69
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.83571429 0.16428571]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.74375
+INFO:root:
+_______________________Subject: P078_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 56
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.67857143 0.32142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.79285714 0.20714286]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7125
+INFO:root:
+_______________________Subject: P054_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 60
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.76428571 0.23571429]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.675
+INFO:root:
+_______________________Subject: P057_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 72
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.67857143 0.32142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.79285714 0.20714286]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7
+INFO:root:
+_______________________Subject: P064_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 72
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.84285714 0.15714286]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.74375
+INFO:root:
+_______________________Subject: P065_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.84285714 0.15714286]
+ [1.         0.        ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7375
+INFO:root:
+_______________________Subject: P067_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 63
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.77857143 0.22142857]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.69375
+INFO:root:
+_______________________Subject: P068_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.83571429 0.16428571]
+ [0.8        0.2       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.75625
+INFO:root:
+_______________________Subject: P072_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.86428571 0.13571429]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7625
+INFO:root:
+_______________________Subject: P073_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.9 0.1]
+ [0.9 0.1]]
+INFO:root:
+ Subject Average Accuracy:
+0.8
+INFO:root:
+_______________________Subject: P075_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 73
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.81428571 0.18571429]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.73125
+INFO:root:
+_______________________Subject: P076_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.90714286 0.09285714]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.8
+INFO:root:
+_______________________Subject: P080_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 74
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.25       0.75      ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.9  0.1 ]
+ [0.85 0.15]]
+INFO:root:
+ Subject Average Accuracy:
+0.80625
+INFO:root:
+_______________________Subject: P081_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.79285714 0.20714286]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.70625
+INFO:root:
+_______________________Final Report_______________________
+INFO:root:
+Average Confusion Matrix Across All Subjects (Percentages): 
+[[0.84557823 0.15442177]
+ [0.89285714 0.10714286]]
+INFO:root:
+Average Classification Report Across All Subjects: 0.7532738095238096
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87857143 0.12142857]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.775
+INFO:root:
+_______________________Subject: P055_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 64
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.90625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.83571429 0.16428571]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.75
+INFO:root:
+_______________________Subject: P056_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 67
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.88571429 0.11428571]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7875
+INFO:root:
+_______________________Subject: P058_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 65
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87142857 0.12857143]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.78125
+INFO:root:
+_______________________Subject: P059_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 73
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.86428571 0.13571429]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7625
+INFO:root:
+_______________________Subject: P069_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 70
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[1. 0.]
+ [1. 0.]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87857143 0.12142857]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7875
+INFO:root:
+_______________________Subject: P070_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.87857143 0.12142857]
+ [0.7        0.3       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.80625
+INFO:root:
+_______________________Subject: P071_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 69
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.83571429 0.16428571]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.74375
+INFO:root:
+_______________________Subject: P078_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 56
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.67857143 0.32142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.79285714 0.20714286]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7125
+INFO:root:
+_______________________Subject: P054_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 60
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.76428571 0.23571429]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.675
+INFO:root:
+_______________________Subject: P057_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 72
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.67857143 0.32142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.59375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.79285714 0.20714286]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7
+INFO:root:
+_______________________Subject: P064_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 72
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.84285714 0.15714286]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.74375
+INFO:root:
+_______________________Subject: P065_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.84285714 0.15714286]
+ [1.         0.        ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7375
+INFO:root:
+_______________________Subject: P067_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 63
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.77857143 0.22142857]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.69375
+INFO:root:
+_______________________Subject: P068_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.5  0.5 ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.83571429 0.16428571]
+ [0.8        0.2       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.75625
+INFO:root:
+_______________________Subject: P072_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.86428571 0.13571429]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.7625
+INFO:root:
+_______________________Subject: P073_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.9 0.1]
+ [0.9 0.1]]
+INFO:root:
+ Subject Average Accuracy:
+0.8
+INFO:root:
+_______________________Subject: P075_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 73
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [1.   0.  ]]
+INFO:root:
+Accuracy: 0.65625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.82142857 0.17857143]
+ [0.5        0.5       ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.75 0.25]
+ [0.75 0.25]]
+INFO:root:
+Accuracy: 0.6875
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.81428571 0.18571429]
+ [0.85       0.15      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.73125
+INFO:root:
+_______________________Subject: P076_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 68
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.8125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.92857143 0.07142857]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.90714286 0.09285714]
+ [0.95       0.05      ]]
+INFO:root:
+ Subject Average Accuracy:
+0.8
+INFO:root:
+_______________________Subject: P080_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 74
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.75
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.96428571 0.03571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.84375
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [0.25       0.75      ]]
+INFO:root:
+Accuracy: 0.875
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.9  0.1 ]
+ [0.85 0.15]]
+INFO:root:
+ Subject Average Accuracy:
+0.80625
+INFO:root:
+_______________________Subject: P081_______________________
+INFO:root:
+Number of components to explain 85.0% of variance: 66
+INFO:root:
+_______________________Fold 1_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.85714286 0.14285714]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:
+_______________________Fold 2_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.78571429 0.21428571]
+ [0.75       0.25      ]]
+INFO:root:
+Accuracy: 0.71875
+INFO:root:
+_______________________Fold 3_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 4_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.71428571 0.28571429]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.625
+INFO:root:
+_______________________Fold 5_______________________
+INFO:root:
+LogisticRegression, l2 penalty for regularization, max iteration of 1000
+INFO:root:
+Conf Matrix:
+[[0.89285714 0.10714286]
+ [1.         0.        ]]
+INFO:root:
+Accuracy: 0.78125
+INFO:root:......................................................
+INFO:root:
+ Subject Average Conf Matrix:
+[[0.79285714 0.20714286]
+ [0.9        0.1       ]]
+INFO:root:
+ Subject Average Accuracy:
+0.70625
+INFO:root:
+_______________________Final Report_______________________
+INFO:root:
+Average Confusion Matrix Across All Subjects (Percentages): 
+[[0.84557823 0.15442177]
+ [0.89285714 0.10714286]]
+INFO:root:
+Average Classification Report Across All Subjects: 0.7532738095238096
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
+INFO:root:Classifier: LogisticRegression
+ NaN Method: zero
+INFO:root:
+_______________________Subject: P050_______________________
